@@ -17,7 +17,4 @@ Also tested in raspberry pi 3 model b, but many problems as memory allocation ex
 For tensorflow use the pip wheel according your architecture, version must be 2.5.0:
 
 https://github.com/PINTO0309/Tensorflow-bin
-pip install nameofdownload
-pip install numpy --upgrade
-
 ###
