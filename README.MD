@@ -1,4 +1,4 @@
-#################################### System Requirements ######################################
+######## System Requirements #######
 #Author: Diogo Oliveira
 For libraries and dependeces use the requirements.txt
 
